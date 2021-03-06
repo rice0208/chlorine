@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Chlorine
 
-You can use the [editor on GitHub](https://github.com/rice0208/chlorine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Chlorine是一款适用于“语言不精确输入”的应用，其目的在于改善搜索引擎中由于不规范中文导致结果偏离的问题。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+目前Chlorine可以在PyPI中安装，提供了whl文件和.tar.gz的安装包。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```powershell
+pip install chlorine
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Repository Info
 
-### Jekyll Themes
+作者：Fluorine团队（[@z-t-y](https://github.com/z-t-y)与[@rice0208](https://github.com/rice0208)）
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rice0208/chlorine/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Python包：`chlorine`（支持所有平台，Python≥3.6）；URL: [chlorine](https://pypi.org/project/chlorine)
